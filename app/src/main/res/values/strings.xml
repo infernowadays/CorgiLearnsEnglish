@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Corgi Learns English</string>
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="learn_words">Learn words</string>
+    <string name="enter_text">Word, phase or sentence</string>
+    <string name="next_word">Next word</string>
+    <string name="finish">Finish</string>
+    <string name="hooray">Hooray</string>
+    <string name="sure_finish_learning">Are you sure you want to complete the training?</string>
+    <string name="sure_not">Sure not</string>
+    <string name="enter_words_list_name">Enter name</string>
+    <string name="create_words_list">A words list creating</string>
+    <string name="edit_word_list_name">A words list name editing</string>
+    <string name="delete_word_list">Are you sure you want to delete a words list?</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="we_know_this_is_boring_but_please_confirm_the_password">We know this is boring, but please confirm the password :)</string>
+    <string name="name_must_be_filled">Name must be filled</string>
+    <string name="email_must_be_filled">Email must be filled</string>
+    <string name="password_must_be_filled">Password must be filled</string>
+    <string name="passwords_must_match">Passwords must match</string>
+    <string name="email_is_not_valid">Email is not valid</string>
+    <string name="password_length">Password length must be at least 8</string>
+    <string name="learn_english_by_movies_and_tv_series">Learn English by movies and series</string>
+    <string name="press_plus_to_add_words">Press + to add words</string>
+    <string name="press_plus_to_create_list">Press + to create a words list</string>
+    <string name="nothing_found">Corgi found nothing</string>
+    <string name="ok">OK</string>
+    <string name="minimum_words_to_start_learning">Add at least 10 words to start learning</string>
+
+    <plurals name="words_count">
+        <item quantity="one">%d word</item>
+        <item quantity="other">%d words</item>
+    </plurals>
+
+    <string-array name="languages">
+        <item>Russian</item>
+        <item>French</item>
+        <item>African</item>
+        <item>German</item>
+        <item>Finn</item>
+    </string-array>
+
+</resources>

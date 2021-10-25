@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_small"
+    android:background="@color/colorPrimary"
+    android:foreground="?selectableItemBackgroundBorderless"
+    android:minHeight="150dp"
+    tools:ignore="UnusedAttribute">
+
+    <TextView
+        android:id="@+id/tv_words_count"
+        style="@style/RegularBlack14"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical|end"
+        android:paddingHorizontal="@dimen/padding_medium"
+        android:textColor="@color/black"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="0 words" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        style="@style/SemiBoldBlack22"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:padding="@dimen/padding_large"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Squid Game" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_avatar_rounded_corners.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_button.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_dialog.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_edit_text.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_ripple.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_ripple_red.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_ripple_swap.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_translation_block.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_word_list_bottom_sheet.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/bg_word_list_item.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/button_disabled.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/button_enabled.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/cursor.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_add.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_add_orange.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_add_white.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_added.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_arrow_drop_down_black.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_arrow_drop_down_circle.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_arrow_drop_down_white.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_back.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_close.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_delete.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_delete_red.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_delete_white.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_edit.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_logout.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_search.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_select.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_swap.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/ic_translate.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/rb_square.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/rb_square_checked.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/rb_square_pressed.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/rb_square_regular.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/selector_btn.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/selector_button.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/spinner_background.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/splash.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/drawable/text_select_handle_left_material.xml" value="0.403125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout-v23/word_item.xml" value="0.36594202898550726" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/bottom_sheet_dialog_fragment_word_list.xml" value="0.33152173913043476" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/custom_progress_view.xml" value="0.375" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/dialog_create_words_list.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/dialog_fragment_confirm_finish_learning.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/dialog_fragment_create_word_list.xml" value="0.36594202898550726" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/dialog_fragment_delete_word_list.xml" value="0.36594202898550726" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/dialog_fragment_info.xml" value="0.36594202898550726" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_create_account.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_entry.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_learn.xml" value="0.3836050724637681" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_login.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_search_words.xml" value="0.33" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_select_language.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_video_content.xml" value="0.5" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_word_list.xml" value="0.25" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_word_list_dialog.xml" value="0.33152173913043476" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/fragment_words.xml" value="0.25" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/language_item.xml" value="0.33" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/lottie_progress_view.xml" value="0.1328125" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/search_item.xml" value="0.5" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/toolbar.xml" value="0.5" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/video_content_item.xml" value="0.21875" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/word_card_item.xml" value="0.3836050724637681" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/word_item.xml" value="0.3523550724637681" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/layout/word_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/maxim/Documents/GitHub/CorgiLearnsEnglish/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.403125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

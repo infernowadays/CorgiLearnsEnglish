@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.chauthai.swipereveallayout.SwipeRevealLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipe"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:dragEdge="right">
+
+    <!--Swipe Layout-->
+    <TextView
+        android:id="@+id/tv_delete"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:background="@color/red"
+        android:fontFamily="@font/montserrat_regular"
+        android:foreground="?selectableItemBackgroundBorderless"
+        android:gravity="center"
+        android:text="@string/delete"
+        android:textColor="#ffffff"
+        tools:ignore="UnusedAttribute" />
+
+    <!--Content Layout-->
+    <LinearLayout
+        android:id="@+id/ll_root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingHorizontal="@dimen/padding_large"
+        android:paddingVertical="@dimen/padding_medium">
+
+        <TextView
+            android:id="@+id/tv_word"
+            style="@style/SemiBoldGrey20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="settle down" />
+
+        <TextView
+            android:id="@+id/tv_word_translation"
+            style="@style/RegularGrey16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="успокоиться" />
+
+    </LinearLayout>
+
+</com.chauthai.swipereveallayout.SwipeRevealLayout>

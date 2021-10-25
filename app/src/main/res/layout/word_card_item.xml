@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_word"
+        style="@style/BoldGrey24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_large"
+        tools:text="settle down" />
+
+    <RadioGroup
+        android:id="@+id/rg_options"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/padding_medium"
+        android:clickable="false"
+        android:layoutDirection="rtl"
+        android:orientation="vertical"
+        android:paddingVertical="@dimen/padding_large"
+        android:theme="@style/WordOptionDefaultStyle">
+
+        <RadioButton
+            android:id="@+id/rb_first_option"
+            style="@style/LearnRadioButtonStyle"
+            android:paddingHorizontal="@dimen/margin_small"
+            android:paddingVertical="@dimen/padding_large"
+            tools:text="завоевать" />
+
+        <RadioButton
+            android:id="@+id/rb_second_option"
+            style="@style/LearnRadioButtonStyle"
+            android:paddingHorizontal="@dimen/margin_small"
+            android:paddingVertical="@dimen/padding_large"
+            tools:text="прыгнуть" />
+
+        <RadioButton
+            android:id="@+id/rb_third_option"
+            style="@style/LearnRadioButtonStyle"
+            android:paddingHorizontal="@dimen/margin_small"
+            android:paddingVertical="@dimen/padding_large"
+            tools:text="упасть" />
+
+        <RadioButton
+            android:id="@+id/rb_fourth_option"
+            style="@style/LearnRadioButtonStyle"
+            android:paddingHorizontal="@dimen/margin_small"
+            android:paddingVertical="@dimen/padding_large"
+            tools:checked="true"
+            tools:text="успокоиться" />
+
+        <RadioButton
+            android:id="@+id/rb_fifth_option"
+            style="@style/LearnRadioButtonStyle"
+            android:paddingHorizontal="@dimen/margin_small"
+            android:paddingVertical="@dimen/padding_large"
+            tools:text="заснуть" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_next"
+        style="@style/ButtonStyle"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/margin_large"
+        android:enabled="false"
+        android:text="@string/next_word" />
+
+</LinearLayout>

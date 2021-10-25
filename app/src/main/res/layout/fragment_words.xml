@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.coordinatorlayout.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_words"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clipToPadding="false"
+                android:paddingBottom="100dp"
+                app:layoutManager="LinearLayoutManager"
+                app:layout_behavior=".custom_views.OverScrollBehavior"
+                tools:itemCount="10"
+                tools:listitem="@layout/word_item" />
+
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_floating_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="@dimen/margin_large"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_learn"
+            style="@style/ButtonStyle"
+            android:text="@string/learn_words"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/iv_add_word"
+            android:layout_width="@dimen/button_height"
+            android:layout_height="@dimen/button_height"
+            android:background="?selectableItemBackground"
+            android:padding="@dimen/padding_medium"
+            android:src="@drawable/ic_add_orange"
+            tools:ignore="ContentDescription" />
+
+    </LinearLayout>
+
+    <com.lazysecs.corgilearnsenglish.custom_views.LottieProgressView
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+</FrameLayout>
