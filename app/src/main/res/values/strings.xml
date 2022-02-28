@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Corgi Learns English</string>
+    <string name="app_name">Corgi learns English</string>
     <string name="press_again_to_exit">Press again to exit</string>
     <string name="learn_words">Learn words</string>
     <string name="enter_text">Word, phase or sentence</string>
